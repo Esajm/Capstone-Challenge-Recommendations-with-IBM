@@ -24,4 +24,4 @@
   - Build recommendation systems 
   
 ### Results
-The main findings of the code can be found at the post available on this link (https://data-science-blog.blogspot.com/2020/02/capstone-challenge-recommendations-with.html).
+The main findings of the code can be found at the post available on this link (https://capstoneudacityrecommendationsibm.blogspot.com/2020/02/capstone-challenge-recommendations-with.html).
