@@ -6,8 +6,19 @@
 ### Features (The recommender system can make recommendations in a number of ways)
 
 - Collaborative Filtering
-  - Takes into account the similarity of users and recommends the most popular articles read by similar users
+  - Takes into account the similarity of users and recommends the most popular articles read by similar users. This method makes automatic predictions (filtering) about the interests of a user by collecting preferences or taste information from many users (collaborating).
 - Rank-Based Recommendations
   - Recommends the highest ranked articles starting with the most highly ranked
 - SVD - Matrix Factorization Recommendations
   - Utilises matrix operations to predict the ranking
+
+### Project Overview
+  - I am aiming by the end of this code to answer 3 questions:
+    1- The 7 most similar users to a particular user?
+    2- What to recommend for a new user?
+    3- What are the top 7 articles to recommend for an existing user?
+    
+### Approach to Answer th question
+  - Data Exploration
+  - Cleaning the data
+  - Build recommendation systems 
