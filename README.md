@@ -24,4 +24,4 @@
   - Build recommendation systems 
   
 ### Results
-The main findings of the code can be found at the post available on this link (https://data-science-blog.blogspot.com/2020/02/makkah-weather.html).
+The main findings of the code can be found at the post available on this link ().
