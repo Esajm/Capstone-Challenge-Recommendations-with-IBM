@@ -14,9 +14,9 @@
 
 ### Project Overview
   - I am aiming by the end of this code to answer 3 questions:
-    1- The 7 most similar users to a particular user?
-    2- What to recommend for a new user?
-    3- What are the top 7 articles to recommend for an existing user?
+    - 1- The 7 most similar users to a particular user?
+    - 2- What to recommend for a new user?
+    - 3- What are the top 7 articles to recommend for an existing user?
     
 ### Approach to Answer th question
   - Data Exploration
